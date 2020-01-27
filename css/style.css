@@ -37,7 +37,7 @@ body {
 	font-family: "Montserrat", sans-serif;
 	-webkit-font-smoothing: antialiased;
 	font-smoothing: antialiased;
-	background: none;
+	background: url('back1.jpg');";
 }
 
 h1,
